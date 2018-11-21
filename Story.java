@@ -1,0 +1,1 @@
+class Choice{	static Scanner s = new Scanner(System.in);	String[]a={"","","","","","","","","",""};				}	void 먹이(){		관리.printSystemMessage("무엇을 줄까?");break;		관리.printSystemMessage("1.산책하기   2.먹이주기   3.놀아주기   4.훈련하기");			}}class 먹이 extends Choice{		public 먹이(){			}}
